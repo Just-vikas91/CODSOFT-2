@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+    <string name="icon">icon</string>
+    <string name="tittle_home">Home</string>
+    <string name="tittle_favorite">Favorite</string>
+    <string name="hello">Hello.</string>
+    <string name="you_are_welcome">You are Welcome!</string>
+    <string name="share">Share</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
